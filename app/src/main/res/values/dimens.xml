@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="layout_padding">15dp</dimen>
+    <dimen name="padding_news_item">20dp</dimen>
+</resources>

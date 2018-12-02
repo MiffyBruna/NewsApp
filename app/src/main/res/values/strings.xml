@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">NewsApp</string>
+    <string name="no_news">Currently there are no news available. Please come back later and try again.</string>
+    <string name="settings_title">NewsApp Settings</string>
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="settings_number_articles_label">Articles displayed</string>
+    <string name="settings_number_articles_key" translatable="false">Articles max</string>
+    <string name="settings_number_articles_default" translatable="false">10</string>
+
+    <string name="settings_topic_label">Select topic</string>
+    <string name="settings_topic_key" translatable="false">search</string>
+    <string name="settings_topic_default" translatable="false">debates</string>
+    <string name="no_internet">Internet connection unavailable. Please check your network.</string>
+
+</resources>
